@@ -1,0 +1,16 @@
+body{
+	background: #f1f1f1 !important;
+}
+.content{
+	margin-top: 100px;
+	width: 1260px;
+	padding-bottom: 100px;
+	margin: 0 auto;
+	background: white;
+}
+.wrap{
+
+	width: 90%;
+	margin: 0 auto;
+	
+}
